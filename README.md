@@ -38,3 +38,6 @@ Test data is provided in the `test_data` directory.
 
 ## Calculating F-Scores
 F-scores can be calculated using the `utilities/calculate_f-score.py` script.
+
+## Notes
+Training details for the NER model are available in the [model repo](https://huggingface.co/adambuttrick/ner-test-bert-base-uncased-finetuned-500K-AdamW-3-epoch-locations/blob/main/README.md).
